@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481926916043",
+    "project_id": "njambifirebase",
+    "storage_bucket": "njambifirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481926916043:android:15aa282c1b53ac51c7f84e",
+        "android_client_info": {
+          "package_name": "com.example.njambifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481926916043-59n91jvb5dpjbkgk5v27r3erc873vf3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hijZEq4yPLcSxgGE9GNLIbSK6SSkIDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481926916043-59n91jvb5dpjbkgk5v27r3erc873vf3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
